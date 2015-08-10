@@ -4,13 +4,12 @@ body {
 }
 
 #header {
-	height: 350px;
 	text-align: center;
 	margin: 20px 0;
 }
 
 #header img {
-	height: 100%;
+	width: 275px;
 }
 
 #content {
