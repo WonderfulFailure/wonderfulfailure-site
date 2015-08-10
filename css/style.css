@@ -6,11 +6,11 @@ body {
 #header {
 	height: 350px;
 	text-align: center;
-	margin-bottom: 20px;
+	margin: 20px 0;
 }
 
 #header img {
-	margin-top: 35px;
+	height: 100%;
 }
 
 #content {
